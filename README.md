@@ -58,7 +58,7 @@ branch off | merge back
 -----------|-----------
 develop   | develop and master
 
-![Release branches](http://nvie.com/img/2009/12/rb.png)
+![Release branches](https://github.com/iwata/Git-royale/raw/master/rb.png)
 
 ### Hotfix branches
 
