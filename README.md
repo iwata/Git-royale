@@ -151,7 +151,11 @@ Git extensions to provide high-level repository operations for the branching mod
 ``git-flow`` dose not concern for remote repository.
 Therefore, you need to sync to remote repository with hands.
 
+![Chaos!](http://blog-imgs-48-origin.fc2.com/s/o/c/socket283/20111028091114.jpg)
+
 ## Solution
+
+![Never give up](http://cdn-ak.f.st-hatena.com/images/fotolife/a/appleappli/20090907/20090907192820.jpg)
 
 Add ``-R | --remote`` option
 
